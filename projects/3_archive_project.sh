@@ -4,7 +4,7 @@
 #$Wed Dec 13 11:06:05 AM +0545 2023$
 
 # Variables
-base=/home/user/test
+base=/home/user/test #Path from where to archive files from.
 days=10
 depth=1
 run=0

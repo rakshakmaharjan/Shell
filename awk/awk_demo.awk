@@ -10,7 +10,7 @@ BEGIN{
 	name="ram"
 	age=20
 
-	#array
+	#Array
 	arry[0]=1
 	arry[1]=2
 

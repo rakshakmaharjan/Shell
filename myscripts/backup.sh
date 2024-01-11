@@ -15,7 +15,7 @@ backup="backup_$timestamp.gz"
 
 gzip -r "$source" > "$destination/$backup" #Backup using gzip.
 
-# Check if Backup is Successfull or not.
+# Check if Backup is Successful or not.
 if [[ $? -eq 0 ]]
 then
 	echo "Backup Success."
